@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.svalero</groupId>
-    <artifactId>ACTIVIDAD DE APRENDIZAJE 2</artifactId>
+    <artifactId>ACTIVIDAD_DE_APRENDIZAJE_2</artifactId>
     <version>1.0</version>
-    <name> Entornos de Desarrollo 2</name>
+    <name> Entornos_de_Desarrollo 2</name>
 
 
     <properties>
@@ -53,7 +53,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>Principal</mainClass>
+                                    <mainClass>Aplicacion</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
